@@ -27,7 +27,7 @@
   <!--Homebrew CSS-->
   <link href="./assets/css/style.css" rel="stylesheet">
   <!--Homebrew JS-->
-  <script src="./js/classes/frontsheet.js"></script>
+  <!---  <script src="./js/classes/frontsheet.js"></script>
   <script src="./js/classes/hours.js"></script>
   <script src="./js/classes/perdiem.js"></script>
   <script src="./js/classes/vac.js"></script>
@@ -36,7 +36,7 @@
   <script src="./js/classes/customer.js"></script>
   <script src="./js/classes/prod.js"></script>
   <script src="./js/classes/expenses.js"></script>
-  <script src="./js/classes/management.js"></script>
+  <script src="./js/classes/management.js"></script> --> 
   <!-- JQuery Link -->
   <script src="https://code.jquery.com/jquery-3.6.3.js"></script>
   <!--<script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>-->

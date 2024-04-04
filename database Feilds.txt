@@ -1,0 +1,21 @@
+Datebase::  vbstscale_varsec
+
+ Table: members - 
+
+        user_id  firstname  lastname 	username 	email 	password 	phonenumber 	lastlogin 	userlevel 	sessionid 	loggedin 	
+
+SELECT * FROM `seclevels` 
+
+         secid 	 Name 	seclevel 
+
+
+
+  firstname, lastname, username, email, password, phonenumber,  lastlogin, userlevel, sessionid, loggedin 	
+
+  Employee
+  Supervisor
+  Management
+  Officemanager
+  FrontOffice    
+  Admin       
+  grover      
